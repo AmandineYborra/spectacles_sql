@@ -1,0 +1,15 @@
+Semaine;Salle;Jour;Disponibilite
+12;A;mardi;45
+12;A;mercredi;52
+12;A;vendredi;12
+13;A;mercredi;68
+13;A;vendredi;23
+14;B;mardi;51
+14;B;mercredi;27
+14;B;samedi;8
+12;B;mardi;52
+12;B;samedi;16
+13;B;mercredi;39
+13;B;vendredi;0
+14;B;null;0
+15;C;null;0
